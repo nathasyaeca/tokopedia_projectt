@@ -4,11 +4,7 @@ Nathasya Pramudita
 2023-11-20
 
 ``` r
-library(tidyr) # for tidying data
-library(dplyr) # for manipulating data
-library(readr) # reading the df
-library(forcats) # manipulating factor data type
-library(ggplot2) # for visualization
+library(tidyverse) # Cleaning, manipulating, analyzing, and vizualizing data packages
 library(extrafont) # for changing the font in viz
 ```
 
